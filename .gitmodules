@@ -1,6 +1,3 @@
-[submodule "amf"]
-	path = NFs/amf
-	url = https://github.com/osamirabo/amf.git
 [submodule "ausf"]
 	path = NFs/ausf
 	url = https://github.com/osamirabo/ausf.git
@@ -34,3 +31,6 @@
 [submodule "chf"]
 	path = NFs/chf
 	url = https://github.com/osamirabo/chf.git
+[submodule "NFs/amf"]
+	path = NFs/amf
+	url = https://github.com/osamirabo/amf.git
