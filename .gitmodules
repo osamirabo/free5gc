@@ -31,3 +31,6 @@
 [submodule "NFs/amf"]
 	path = NFs/amf
 	url = https://github.com/osamirabo/amf.git
+[submodule "NFs/nssf"]
+	path = NFs/nssf
+	url = https://github.com/osamirabo/nssf.git
